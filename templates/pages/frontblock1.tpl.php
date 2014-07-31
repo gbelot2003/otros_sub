@@ -15,9 +15,9 @@ if($language_content->language == "es"){
 <div class="row">		
 		<div class="large-6 small-12 columns">
 			<div class="">
-				<h2 class="front-title"><span class="portal"><?php print t("Other Destinations") ?></span></h2>
+				<h2 class="front-title"><span class="portal"><?php print t("<span>Discover</span> Other Destinations") ?></span></h2>
 				<div>
-					<h5 class="guara"><?php print t("Much more <span>Honduras</span>") ?></h5>
+					<h5 class="guara"><?php print t("much more <span>Honduras</span>") ?></h5>
 				</div>
 				
 					<div class="img-h h"><a title="<?php print t("Hotels") ?>" href="<?php print $hotels ?>">Hotel</a></div>
